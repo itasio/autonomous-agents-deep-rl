@@ -9,4 +9,4 @@ Results for 9x9 are promising, but the fact that the grid size is small and the 
 
 Results for 84x84 show that DQN agent achieves far better results than the random agent.
 
-Checkout the results and the analysis in the [report](../Autonous_Agent_Full_Report.pdf).
+Checkout the results and the analysis in the [report](../blob/main/Autonous_Agent_Full_Report.pdf).
